@@ -1,5 +1,5 @@
 # SYCJHU
-# Decision Analytics Foundamentals Project: Investigation on Baltimore societal questions using data analytics
+# Decision Analytics Foundamentals Project: Discovering the driving factors behind the high crime rate in Baltimore
 
 #Baltimore societal questions
 
